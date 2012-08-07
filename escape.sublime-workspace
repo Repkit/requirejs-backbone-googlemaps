@@ -1,0 +1,999 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"z",
+				"zoomControl"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"require",
+				"requirejs-plugins"
+			],
+			[
+				"def",
+				"defaultActions"
+			],
+			[
+				"show",
+				"showUsers"
+			],
+			[
+				"unders",
+				"Underscore"
+			],
+			[
+				"marker",
+				"markerArray"
+			],
+			[
+				"mark",
+				"markerArray"
+			],
+			[
+				"docum",
+				"document"
+			],
+			[
+				"google",
+				"googleapis"
+			],
+			[
+				"expand",
+				"expandButton"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"slider",
+				"slider-list"
+			],
+			[
+				"get",
+				"getSlide"
+			],
+			[
+				"hero",
+				"hero-slider"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"border",
+				"borderBottom"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"item",
+				"itemHash"
+			],
+			[
+				"scro",
+				"scrollTo"
+			],
+			[
+				"page",
+				"pageHREF"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"regionZoo",
+				"regionZoomLevel"
+			],
+			[
+				"regionZo",
+				"regionZoomLevel"
+			],
+			[
+				"mar",
+				"markers"
+			],
+			[
+				"active",
+				"activeDests"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"key",
+				"keyup"
+			],
+			[
+				"mouse",
+				"mouseup"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"terms",
+				"termsModal"
+			],
+			[
+				"no",
+				"nowrap"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/views/map.js",
+			"settings":
+			{
+				"buffer_size": 939,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/models/map.js",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/routes.js",
+			"settings":
+			{
+				"buffer_size": 458,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				":svn",
+				"Preferences: SVN Key Bindings"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				":Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"Diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"D",
+				"FileDiffs: Menu"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/private/var/folders/ce/ceT+ORk2EjO5hyIVdqYBim8bk4Y/-Tmp-/b933f870-2969-4ac1-9058-45801ee14494/home/savoy/public_html/wp-content/themes/savoy/header.php",
+		"/Users/adamtr/Documents/delta/escape/js/main.js",
+		"/Users/adamtr/Documents/delta/escape/js/views/map.js",
+		"/Users/adamtr/Documents/delta/escape/js/models/map.js",
+		"/Users/adamtr/Documents/delta/escape/js/app.js",
+		"/Users/adamtr/Documents/delta/escape/index.html",
+		"/Users/adamtr/Documents/delta/escape/js/routes.js",
+		"/Users/adamtr/Documents/delta/escape/js/gmap.js",
+		"/Users/adamtr/Documents/delta/escape/js/routers/home.js",
+		"/Users/adamtr/Documents/delta/escape/sass/styles.scss",
+		"/Users/adamtr/Documents/delta/escape/js/router.js",
+		"/Users/adamtr/Documents/delta/escape/js/bootstrap.js",
+		"/Users/adamtr/Documents/delta/escape/sass/_nav-widget.scss",
+		"/Users/adamtr/Documents/delta/escape/sass/_delta-header.scss",
+		"/Users/adamtr/Documents/Classes & Education/AJAX-APIs/API Basics/2. Gmap Markers/css/style.css",
+		"/Users/adamtr/Documents/Classes & Education/AJAX-APIs/API Basics/2. Gmap Markers/js/script.js",
+		"/Users/adamtr/Documents/Classes & Education/AJAX-APIs/API Basics/2. Gmap Markers/index.html",
+		"/Users/adamtr/Documents/Classes & Education/AJAX-APIs/API Basics/1. Init Gmap/css/style.css",
+		"/Users/adamtr/Documents/Classes & Education/AJAX-APIs/API Basics/1. Init Gmap/js/script.js",
+		"/Users/adamtr/Documents/Classes & Education/AJAX-APIs/API Basics/1. Init Gmap/index.html",
+		"/Users/adamtr/Documents/Classes & Education/AJAX-APIs/API Basics/3. Gmap Styled Markers/index.html",
+		"/Users/adamtr/Documents/Classes & Education/AJAX-APIs/API Basics/3. Gmap Styled Markers/js/script.js",
+		"/Users/adamtr/Documents/delta/polaris/trunk/assets/js/delta.keep-climbing-alt.js",
+		"/Users/adamtr/Documents/delta/polaris/trunk/keep-climbing-alt.html",
+		"/Users/adamtr/Documents/delta/polaris/trunk/assets/css/climbing.css",
+		"/Users/adamtr/Documents/delta/polaris/trunk/assets/js/delta.keep-climbing.js",
+		"/Users/adamtr/Desktop/katey-css-climbing.css",
+		"/Users/adamtr/Documents/delta/polaris/trunk/sftp-config.json",
+		"/Users/adamtr/Documents/delta/polaris/trunk/keep-climbing-wsj-alt.html",
+		"/Users/adamtr/Documents/delta/polaris/trunk/keep-climbing.html",
+		"/Users/adamtr/Documents/delta/polaris/trunk/index.html",
+		"/Users/adamtr/Documents/delta/polaris/trunk/map.html",
+		"/Users/adamtr/Documents/delta/polaris/trunk/assets/css/delta.map.css",
+		"/Users/adamtr/Documents/delta/polaris/trunk/assets/js/delta.vacmap.label.js",
+		"/Users/adamtr/Documents/delta/polaris/trunk/assets/js/delta.escape.map.js",
+		"/Users/adamtr/Library/Application Support/Sublime Text 2/Packages/SVN/SVN.sublime-settings",
+		"/Users/adamtr/Library/Application Support/Sublime Text 2/Packages/SVN/Default (OSX).sublime-keymap",
+		"/Users/adamtr/Documents/delta/FacebookPromos/Delta Chelsea/index.html",
+		"/Users/adamtr/Library/Application Support/Sublime Text 2/Packages/User/SVN.errors.log",
+		"/private/var/folders/ce/ceT+ORk2EjO5hyIVdqYBim8bk4Y/-Tmp-/6b272dfe-178b-426e-9dd9-19fc5d988a80/home/velomash/adamtrimble.com/index.html",
+		"/private/var/folders/ce/ceT+ORk2EjO5hyIVdqYBim8bk4Y/-Tmp-/686402e6-8a15-4c73-8945-b33290bebd5a/Public/Video/Shows/True Blood/True.Blood.S05E04.720p.HDTV.x264-IMMERSE [PublicHD]/True.Blood.S05E04.720p.HDTV.x264-IMMERSE.mkv",
+		"/Users/adamtr/Documents/ATT/attlanding/svn-commit.tmp",
+		"/Users/adamtr/Documents/delta/polaris/svn-commit.tmp",
+		"/private/var/folders/ce/ceT+ORk2EjO5hyIVdqYBim8bk4Y/-Tmp-/643dc452-ecee-4c84-a778-2a64a78ea3d2/public_html/assets/css/delta.map.css",
+		"/Users/adamtr/Documents/delta/polaris/trunk/.htaccess",
+		"/Users/adamtr/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/Users/adamtr/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/adamtr/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/adamtr/Documents/delta/polaris/trunk/assets/css/_delta.escape.map.css",
+		"/Users/adamtr/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"img",
+			"Whitney",
+			"whitney",
+			"Whitney",
+			"utility",
+			"body",
+			"20px",
+			"nav",
+			"hange",
+			"highlight",
+			"half",
+			"log",
+			"content",
+			"inline",
+			"nav",
+			"promo",
+			"Wi",
+			"wifi",
+			".jpg",
+			"promo",
+			"url",
+			"img",
+			"initResorts",
+			"areaMenu",
+			"[.]neighborhood",
+			"getRegionMarker",
+			"getResortMarker",
+			"open",
+			"getDestinationMarker",
+			"url",
+			"[.]origin",
+			"location-nav",
+			"featuredResortM",
+			"markers[0]",
+			"console",
+			"markers",
+			"deal",
+			"featuredResortMgr",
+			"origin",
+			"mapOrigin",
+			"regionZoomLevel",
+			"destZoom = ",
+			"regionZoomLevel",
+			"regionZooms",
+			"getDestination",
+			"resortCount",
+			"activeDests",
+			"out of",
+			"label.className",
+			"label",
+			"labelTouchActive",
+			"destination-label",
+			"active",
+			"toggleClass",
+			"active",
+			"removeClass",
+			"close",
+			"whitelist",
+			"getDestinationMarker",
+			"console.",
+			"delta-resort-price",
+			"regionZooms",
+			"renderMarker",
+			"MapKeyComm",
+			"dest",
+			"label",
+			"getDestinationMarker",
+			"getResortMarker",
+			"initMap",
+			"mapOrigin",
+			"initLoading",
+			"getFeaturedMarker",
+			"getResortMarker",
+			"destName",
+			"getResortMarker",
+			"destName",
+			"resortDescription",
+			"getResort",
+			"origin",
+			"getOriginMarker",
+			"ATL",
+			"mapOrigin",
+			"header",
+			"white-space",
+			"#ie8",
+			"ui-slider-price",
+			"console.log",
+			"travelDates",
+			"onclick_termslink",
+			"terms",
+			"^[\\s]*",
+			"destination-label",
+			"active",
+			"/\" al",
+			"Before",
+			"stylesheet",
+			"assets",
+			"Ipsum",
+			"ignored_pa"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/views/map.js",
+					"settings":
+					{
+						"buffer_size": 939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/models/map.js",
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/routes.js",
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								455,
+								455
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ma",
+				"/Users/adamtr/Documents/delta/polaris/trunk/keep-climbing.html"
+			],
+			[
+				"keep",
+				"/Users/adamtr/Documents/delta/polaris/trunk/keep-climbing.html"
+			],
+			[
+				"map.html",
+				"/Users/adamtr/Documents/delta/polaris/trunk/keep-climbing.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/adamtr/Documents/delta/FacebookPromos/Delta Chelsea/behind-the-blues.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true
+}
